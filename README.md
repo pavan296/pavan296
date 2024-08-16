@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan296&label=Profile%20views&color=0e75b6&style=flat" alt="pavan296" /> </p>
 
-- 🌱 I’m currently working on **.Net technologies, **
+- 🌱 I’m **Dotnet Full Stack Senior Software Engineer**
 
-- 👨‍💻 All of my projects are available at [https://pa1cv.netlify.app/](https://pa1cv.netlify.app/)
+- 👨‍💻 My Portfolio is [https://pa1cv.netlify.app/](https://pa1cv.netlify.app/)
 
 - 📫 How to reach me **pavanbm17@gmail.com**
 
