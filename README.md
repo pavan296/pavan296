@@ -10,9 +10,6 @@
 - 📫 How to reach me **pavanbm17@gmail.com**
 
 - 👨‍💻 LinkedIn profile [https://www.linkedin.com/in/pavan-bm](https://www.linkedin.com/in/pavan-bm)
-  
-- 📄 Know about my experiences [https://drive.google.com/file/d/15-Gi4VIoOhhVd1UZ3H-OdgS5p7JHe_Y7/view?usp=drive_link](https://drive.google.com/file/d/15-Gi4VIoOhhVd1UZ3H-OdgS5p7JHe_Y7/view?usp=drive_link)
-
 
 <p align="left">
 </p>
