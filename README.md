@@ -35,14 +35,14 @@
          <td>XUnit</td>
       </tr>
       <tr>
-         <td>ASP.NET Core</td>
+         <td>ASP.NET Core & Framework</td>
          <td>MongoDB</td>
          <td>Azure DevOps</td>
          <td>Jest</td>
       </tr>
       <tr>
          <td>JavaScript</td>
-         <td>CasmosDb</td>
+         <td>CosmosDb</td>
          <td>Docker</td>
          <td></td>
       </tr>
@@ -53,7 +53,7 @@
          <td></td>
       </tr>
       <tr>
-         <td>React</td>
+         <td>ReactJs</td>
          <td></td>
          <td>CI/CD</td>
          <td></td>
@@ -67,7 +67,7 @@
       <tr>
          <td>Node.js</td>
          <td></td>
-         <td></td>
+         <td>Prometheus & Grafana</td>
          <td></td>
       </tr>
    </tbody>
